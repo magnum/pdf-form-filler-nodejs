@@ -1,0 +1,24 @@
+{
+  "name": "pdf-form-filler-nodejs",
+  "version": "0.0.1",
+  "description": "pdf form filler using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/magnum/pdf-form-filler-nodejs"
+  },
+  "keywords": [
+    "pdf",
+    "form",
+    "nodejs"
+  ],
+  "author": "antoniomolinari@me.com",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "pdffiller-aws-lambda": "^0.0.12"
+  }
+}
